@@ -1,4 +1,4 @@
-# This is my first HTML Doc
+# This is my first HTML Document
 
 ## In this file I am learning html structure
 
